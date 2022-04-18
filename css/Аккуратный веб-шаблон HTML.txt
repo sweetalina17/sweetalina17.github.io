@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+
+<html class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Смаколики</title>
+
+    <link rel="stylesheet" href="css">
+    <link rel="stylesheet" href="bootstrap.min.css">                              
+    <link rel="stylesheet" href="magnific-popup.css">                             
+    <link rel="stylesheet" href="templatemo-style.css">                                   
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="translateelement.css">
+</head>
+    <body>        
+        <div class="container">
+            <div class="row">
+                <div class="tm-left-right-container">
+                    
+                    <div class="tm-blue-bg tm-left-column">                        
+                        <div class="tm-logo-div text-xs-center">
+                            <img src="tm-neaty-logo.png" alt="Логотип">
+                            <h1 class="tm-site-name"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TARTINE BAKERY & CAFE</font></font></h1>
+                        </div>
+                        <nav class="tm-main-nav">
+                            <ul class="tm-main-nav-ul">
+                                <li class="tm-nav-item">
+                                    <a  class="tm-nav-item-link active"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Вітаю на нашому сайті</font></font></a>
+                                </li>
+                                <li class="tm-nav-item">
+                                    <a class="tm-nav-item-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Про нас</font></font></a>
+                                </li>
+                                <li class="tm-nav-item">
+                                    <a class="tm-nav-item-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Меню</font></font></a>
+                                </li>
+                                <li class="tm-nav-item">
+                                    <a class="tm-nav-item-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Друга сторінка</font></font></a>
+                                </li>
+                                <li class="tm-nav-item">
+                                    <aclass="tm-nav-item-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Третя сторінка</font></font></a>
+                                </li>
+                                <li class="tm-nav-item">
+                                    <a  class="tm-nav-item-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Звязатися з нами</font></font></a>
+                                </li>
+                            </ul>
+                        </nav>                                         
+                    </div>
+                   
+                    <div class="tm-right-column">
+                        <figure>
+                            <img src="neaty-01.jpg" alt="Загальна картинка" class="img-fluid">    
+                        </figure>
+
+                        <div class="tm-content-div">
+                            
+                            <section id="welcome" class="tm-section">
+                                <header>
+                                    <h2 class="tm-blue-teхе tm-margin-b-45"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Цікаві факти про торти </font></font></h2>
+                                </header>
+                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">У тортів теж є день народження, і святкують його  
+            20 липня.  Це саме той випадок, коли навіть тим, хто на дієті, можна скуштувати шматочок солодкої випічки.  </font><font style="vertical-align: inherit;">Найбільший торт був приготований  в Італії,
+       його вага складала майже тонну, а сам виріб мав вигляд цієї середземноморської країни. </font><font style="vertical-align: inherit;">А можете Ви повірити в те, що до сьогоднішнього дня зберігся торт, вік якого близько ста років. Його фермер знайшов на горищі. </font><font style="vertical-align: inherit;">Найдовший торт становить 246 метрів, його спекли в Перу. </font><font style="vertical-align: inherit;">Його займалося виготовленням триста кондитерів, які витратили по тони цукру і яєць. </font><font style="vertical-align: inherit;">Після того, як торт урочисто презентували його розділили на п’ятнадцять тисяч частин, якими пригостили перуанських дітей, які в цей день святкували свій день народження.  </font><font style="vertical-align: inherit;">А ось самим маленьким тортиком вважається десерт, приготований в Швейцарії </font><font style="vertical-align: inherit;">Тільки уявіть собі, що такий торт помістився на подушечки вказівного пальця.</font></font></p>
+                            </section>
+                            <section id="about" class="tm-section">
+                                <div class="row">                                                                
+                                    <div class="col-lg-8 col-md-7 col-sm-12 col-xs-12 push-lg-4 push-md-5">
+                                        <header>
+                                            <h2 class="tm-blue-text tm-section-title tm-margin-b-45"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Про команду</font></font></h2>
+                                        </header>
+                                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Вас зустрінуть найпозитивніші люди </font><font style="vertical-align: inherit;">Вони піднімуть вам настрій своєю посмішкою і змусять посміхатися і вас</font></font></p>
+                                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">На кухні у нас ангели які готують вам неймовірну смакоту, </font><font style="vertical-align: inherit;">ніжні тістичка, пишні бізквіти, солодке морозиво. </font><font style="vertical-align: inherit;">На барній стійці вас зустріне юнак який зробить вам будь який напій.</font></font></p>
+                                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Якщо ви замовите каву чи капучино він вам на пінці намалює чудові смайлики, а якщо ви поспішаєте і візьмете із собою то він на стаканчику напише теплі слова щоб день був чудовим </font><font style="vertical-align: inherit;">Приходьте до нас ми будемо раді вас бачити.</font></font></p>
+                                         <div class="tm-gallery-container tm-gallery-0">
+                                     <div class="tm-img-container tm-img-container-0">
+                                        <a href="neaty-03.jpg"><img src="neaty-03.jpg" width="400px"alt="зображення" class="img-fluid tm-img-tn"><p>Ви зможете зустрітися з друзями, прийти на побачення, або просто випити кави перед початком робочого дня</p></a>    
+                                    </div>
+                                    <div class="tm-img-container tm-img-container-0">
+                                        <a href="neaty-04.jpg"><img src="neaty-04.jpg"width="400px" alt="зображення" class="img-fluid tm-img-tn"><p>А також ви зможете прийти і попрацювати у кафе з"їсти смачний десерт і випити запашну каву</p> </a>    
+                                    </div>
+                                        
+                                    </div>
+                                    
+                                    
+                                </div>                            
+                            </section>  
+                                   
+                                
+                                    
+                                 <section id="galleryone" class="tm-section">
+                                <header><h2 class="tm-blue-text tm-section-title tm-margin-b-30"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Меню</font></font></h2></header>
+                                    <div class="tm-img-container tm-img-container-1">
+                                        <a href="neaty-06.jpg"><img src="neaty-06.jpg"width="400px" alt="зображення" class="img-fluid tm-img-tn"><p><font style="vertical-align: inherit;">Сирники з варенням. Вартість: 30грн\300г.</p></a>    
+                                    </div>
+                                    <div class="tm-img-container tm-img-container-1">
+                                        <a href="neaty-07.jpg"><img src="neaty-07.jpg"  width="400px" alt="зображення" class="img-fluid tm-img-tn"><p><font style="vertical-align: inherit;">Чизкейк. Вартість: 20грн\1шт.</p></a>    
+                                    </div>  
+                                    <div class="tm-img-container tm-img-container-1">
+                                        <a href="neaty-02.jpg"><img src="neaty-02.jpg" width="400px" alt="зображення" class="img-fluid tm-img-tn"> Фруктові соки. Вартість: 15грн\1шт.</p> </a>
+                                    </div>                                    
+                                </div>
+                            </section>
+
+                            <!-- Second Gallery section -->     
+                            <section id="secondgallery" class="tm-section">
+                                <header><h2 class="tm-blue-text tm-section-title tm-margin-b-30"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Друга сторінка</font></font></h2></header>
+                                <div class="tm-gallery-container tm-gallery-2">
+                                    <div class="tm-img-container tm-img-container-2">
+                                        <a href="neaty-08.jpg"><img src="neaty-08.jpg" width="400px" alt="зображення" class="img-fluid tm-img-tn"> <p><font style="vertical-align: inherit;">Млинці з фруктами. Вартість: 50грн\300г.</p></a>    
+                                    </div>
+                                    <div class="tm-img-container tm-img-container-2">
+                                        <a href="neaty-09.jpg"><img src="neaty-09.jpg" width="400px" alt="зображення" class="img-fluid tm-img-tn"> <p><font style="vertical-align: inherit;"> Імбирне печиво. Вартість: 40грн\5шт.</p></a>    
+                                    </div>
+                                    <div class="tm-img-container tm-img-container-2">
+                                        <a href="neaty-10.jpg"><img src="neaty-10.jpg" width="400px" alt="зображення" class="img-fluid tm-img-tn"><p><font style="vertical-align: inherit;"> Торт веселка. Вартість: 23грн\1кусок.</p></a>    
+                                          
+                                    </div>                                    
+                                </div>
+                            </section>
+
+                            <!-- Third Gallery section -->     
+                            <section id="thirdgallery" class="tm-section">
+                                <header><h2 class="tm-blue-text tm-section-title tm-margin-b-30"><font style="vertical-align: inherit;">Третя сторінка</font></h2></header>
+                                <div class="tm-gallery-container tm-gallery-3">
+                                    <div class="tm-img-container tm-img-container-3">
+                                        <a href="neaty-11.jpg"><img src="neaty-11.jpg" width="400px" alt="зображення" class="img-fluid tm-img-tn">  <p><font style="vertical-align: inherit;"> Банановий мус. Вартість: 50грн\100г.</p></a>    
+                                    </div>
+                                    <div class="tm-img-container tm-img-container-3">
+                                        <a href="neaty-12.jpg"><img src="neaty-12.jpg" width="400px" alt="зображення" class="img-fluid tm-img-tn"><p><font style="vertical-align: inherit;">Пасха. Вартість: 30грн.\ 300г.</p></a>
+                                    </div>
+                                    
+                                    <div class="tm-img-container tm-img-container-3">
+                                        <a href="neaty-14.jpg"><img src=neaty-14.jpg. width="400px" alt="зображення" class="img-fluid tm-img-tn"><p><font style="vertical-align: inherit;">Капучино. Вартість: 20грн.\ 250мл.</p></a>
+                                    </div>                                    
+                                </div>
+                            </section>
+
+                            <!-- Contact Us section -->
+                            <section id="contact" class="tm-section">
+                                <header><h2 class="tm-blue-text tm-section-title tm-margin-b-30"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Звязатися з нами</font></font></h2></header>
+
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <form  method="post" class="contact-form">
+                                            <div class="form-group">
+                                                <input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="Імя" required="">
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="Ел. адрес" required="">
+                                            </div>
+                                            <div class="form-group">
+                                                <textarea id="contact_message" name="contact_message" class="form-control" rows="9" placeholder="Повідомлення" required=""></textarea>
+                                            </div>                                            
+                                            <button type="submit" class="float-right tm-button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Відправити</font></font></button>
+                                        </form>    
+                                    </div>
+                                    
+                                    
+                           
+
+<div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
